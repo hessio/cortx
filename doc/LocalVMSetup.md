@@ -3,7 +3,7 @@ THIS FILE IS OLD AND SHOULD BE REMOVED AFTER VERIFYING THAT NO LINKS EXIST TO IT
 
 # Create a new VM from scratch
 For CORTX development, you can create a new VM from scatch and then install a fresh CentOS 7.8.2003.
-This setup should take you roughly 20 to 30 minutes 
+This setup should take you roughly 20 to 30 minutes. 
 
 ## 1. Download ISO file
 You can download CentOS 7.8.2003 ISO file from http://www.centos.org, or from any mirror site you like.
